@@ -23,4 +23,16 @@ Se eligió el ODS 15: Vida de ecosistemas terrestres porque, relacionado al ODS 
   <img src="https://github.com/aquinoestoyxd/FD-Grupo2/blob/0ed7b3b48325ab291922a3bd537d6a1da289a33a/ods_15.jpeg" alt="Imagen 2" width="400">
 </p>
 
+**Lenguaje de programación:**
+Para el proyecto, se usará el lenguaje de programación Python, principalmente porque es el lenguaje del cual tenemos conocimiento la mayoría de los integrantes. A su vez, la gran cantidad de librerías que posee dicho lenguaje permite implementar múltiples funciones de una forma ordenada y sencilla.
 
+# LISTA DE CONTENIDOS
+- Contextualización del problema
+- Proyecto propuesto
+- Materiales
+- Metodología
+- Aportes del proyecto en solución del problema
+- Contenido del curso
+- Bibliografía
+
+Nota: Por ahora, la lista únicamente muestra las divisiones de contenido. El contenido se irá agregando conforme la investigación y el proyecto avancen.
