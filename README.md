@@ -18,5 +18,9 @@ Se eleigió el ODS 13: Acción por el Clima debido a que, en la actualidad, nues
 
 **Motivo de la elección del ODS 15:**
 Se eligió el ODS 15: Vida de ecosistemas terrestres porque, relacionado al ODS anterior, debido a los constantes incendios forestales y a la contamincación que hay presente en nuestro país, los suelos están viéndose gravemente afectados, causando graves daños a la flora y fauna de nuestro ecosistema.
+<p align="center">
+  <img src="https://github.com/aquinoestoyxd/FD-Grupo2/blob/0ed7b3b48325ab291922a3bd537d6a1da289a33a/ods_13.jpeg" alt="Imagen 1" width="400">
+  <img src="https://github.com/aquinoestoyxd/FD-Grupo2/blob/0ed7b3b48325ab291922a3bd537d6a1da289a33a/ods_15.jpeg" alt="Imagen 2" width="400">
+</p>
 
 
