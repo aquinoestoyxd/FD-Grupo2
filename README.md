@@ -23,7 +23,7 @@ Se eligió el ODS 6: Agua limpia y saneamiento debido a que, en la realidad de n
 Uno de los mayores problemas que atraviesa el Perú es la falta de accesibilidad de agua potable en zonas tanto rurales como selváticas, incluso en la misma capital, hay zonas que no tienen acceso sencillo a este recurso vital. Para empeorar la situación, fenómenos naturales como lluvias torrenciales o inundiaciones impiden aún más el acceso al agua, pues ocasionan que su calidad se vea muy afectada por el arrastre de tierra, lodo, y diversos objetos contaminantes. Este es un problema que ocurre con frecuencia en nuestro país, y, sin embargo, nunca se ha planificado ni presentado una propuesta de solución que ayude a la mejoría de esta situación.
 
 **Población afectada:**
-Aunque el acceso a agua potable es un problema presente en casi todo nuestro país, para este proyecto hemos decidido centrarnos en la amazonía peruana, esto debido a su extrema dependencia al agua de los ríos que presentan cerca, los cuales, como se mencionó con anterioridad, no son de consumo recomendable dado la contaminación que presentan, esto no solo por los fenónemos naturales, sino también por acciones humanas como la actividad minera.
+Aunque el acceso a agua potable es un problema presente en casi todo nuestro país, para este proyecto hemos decidido centrarnos en la región de Ucayali, esto debido a su extrema dependencia al agua de los ríos que presentan cerca, los cuales, como se mencionó con anterioridad, no son de consumo recomendable dado la contaminación que presentan, esto no solo por los fenónemos naturales, sino también por acciones humanas como la actividad minera.
 
 **Puntos de dolor:**
 - El único modo de acceder a agua de múltiples personas en la selva es su río más cercano.
