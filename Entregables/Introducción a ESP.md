@@ -25,11 +25,11 @@ Ploteo de la lectura de un potenciómetro como divisor de tensión en un puerto 
 <p align="center">
   <img src="https://github.com/aquinoestoyxd/FD-Grupo2/blob/main/Imágenes/esp32(2).png?raw=true" alt="Imagen 1"
 </p>
-
-3. Para finalizar con las conexiones del ESP32, se conectaron los cables de GND, 3.3V y el pin34 a un protoboard con el potenciómetro. La idea es que, al girar este elemento, en la laptop se refleje un cambio en la lectura.
 <p align="center">
   <img src="https://github.com/aquinoestoyxd/FD-Grupo2/blob/main/Imágenes/esp32(3).jpg?raw=true" alt="Imagen 1"
 </p>
+
+3. Para finalizar con las conexiones del ESP32, se conectaron los cables de GND, 3.3V y el pin34 a un protoboard con el potenciómetro. La idea es que, al girar este elemento, en la laptop se refleje un cambio en la lectura.
 <p align="center">
   <img src="https://github.com/aquinoestoyxd/FD-Grupo2/blob/main/Imágenes/esp32(4).jpg?raw=true" alt="Imagen 1"
 </p>
