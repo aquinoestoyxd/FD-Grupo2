@@ -40,7 +40,8 @@ Ploteo de la lectura de un potenciómetro como divisor de tensión en un puerto 
   <img src="https://github.com/aquinoestoyxd/FD-Grupo2/blob/main/Imágenes/esp32(5).png?raw=true" alt="Imagen 1"
 </p>
 
-**Link de Funcionnamiento**
+**Link de Funcionamiento**
+
 https://drive.google.com/drive/folders/1i0GfJTXejX1uP06ug9ueC-nii7gR1SB6?usp=share_link
  
 ## 5.- Código utilizado:
